@@ -10,4 +10,5 @@ O Alura Midi é um instrumento musical de interface digital em que cada botão r
 Distribuído sob a licença MIT. Veja `LICENSE` para mais informações.
 
 ## Contato
-[Linkedin](https://www.linkedin.com/in/mariana-nogueira-de-carvalho-0aa954209/)
+Meu Linkedin: [https://www.linkedin.com/in/mariana-nogueira-de-carvalho-0aa954209/](https://www.linkedin.com/in/mariana-nogueira-de-carvalho-0aa954209/) <br>
+Link do Projeto: [https://mariana-nogueira21.github.io/alura-midi/](https://mariana-nogueira21.github.io/alura-midi/)
